@@ -1,0 +1,43 @@
+h1,h2{
+  text-align: center;
+  font-family: 'Sansita Swashed', cursive;
+  font-weight: bold;
+  color: white;
+}
+
+body{
+  background-color: #03011a;
+}
+
+p,label{
+  text-align: center;
+  color: white;
+  font-family: 'Source Sans Pro', sans-serif;
+}
+
+.form1{
+  text-align: center;
+}
+
+input{
+  padding: 0.6em 3.5em;
+}
+
+#ip{
+  text-align: left;
+}
+
+.signmeup{
+  background-color: #d1ca00;
+  border-radius: 30%;
+  border-width: medium;
+  border-style: groove;
+  padding: 1em 1em;
+  font-weight: bold;
+  font-size: 2em;
+  font-family: 'Source Sans Pro', sans-serif;
+}
+
+#introparas{
+  padding: 2em 6em;
+}
